@@ -1,3 +1,1 @@
-<span>![Simulator Screenshot - iPhone 16 Pro - 2024-10-23 at 16 35 12](https://github.com/user-attachments/assets/31696e35-c2ab-4100-b833-2bd24e296745)</span>
-<span>![Simulator Screenshot - iPhone 16 Pro - 2024-10-23 at 16 35 24](https://github.com/user-attachments/assets/b0ae4ffe-ea06-440b-a878-6bec637ecaec)</span>
-<span>![Simulator Screenshot - iPhone 16 Pro - 2024-10-23 at 16 35 28](https://github.com/user-attachments/assets/e9cdc216-79aa-4273-8360-37a22ef27ceb)</span>
+![Ekran Resmi 2024-10-23 16 39 57](https://github.com/user-attachments/assets/2d8ebd9c-8d61-49ba-b62c-4e10d9f3bf60)![Ekran Resmi 2024-10-23 16 40 06](https://github.com/user-attachments/assets/83cbd13b-5e3f-409f-9016-7a944c1c1e5d)![Ekran Resmi 2024-10-23 16 40 26](https://github.com/user-attachments/assets/0999b868-3452-4bb7-924f-cdf958856ab6)
